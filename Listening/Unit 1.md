@@ -51,9 +51,22 @@ Square
 ```
 
 ### Nation and Nationality
-| Nation | Nationality |
-| ------ | ----------- |
-|        |             |
+| Nation                    | Nationality    |
+| ------------------------- | -------------- |
+| China                     | Chinese        |
+| **Australia**             | **Australian** |
+| America                   | American       |
+| **Canada**                | **Canadian**   |
+| **France**                | **French**     |
+| Japan                     | Japanese       |
+| Holland / The Netherlands | **Dutch**      |
+| New Zealand               | New Zealander  |
+| **The UK / Britain**      | **British**    |
+| **Greece**                | **Greek**      |
+| **Germany**               | **German**     |
+| Switzerland               | Swiss          |
+| Sweden                    | Swedish        |
+
 
 ## Homework
 [refs to WB p6 - Listening section 1]()
