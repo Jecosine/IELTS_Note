@@ -1,0 +1,10 @@
+{
+  "obsidianCss": false,
+  "enabledCssSnippets": [
+    "vue"
+  ],
+  "theme": "moonstone",
+  "cssTheme": "",
+  "translucency": false,
+  "baseFontSize": 16
+}

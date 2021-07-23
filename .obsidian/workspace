@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "960306b1c204c090",
+    "type": "split",
+    "children": [
+      {
+        "id": "779908e64219f6c1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Listening/Unit 1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe8436fee972b54b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f83c2ecf91ad9e7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb70d28eb388d611",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8c63be74a2489c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#vocab",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329
+  },
+  "right": {
+    "id": "c9cc3aca0f8afcd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5a00ea5b156e843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104d8861b0087ee6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Listening/Unit 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7358743ddcb6a57e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Listening/Unit 1.md"
+              }
+            }
+          },
+          {
+            "id": "a68bb2544932b4c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a86164265ac01d78",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c02b750dcaa9c1a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "97ca7f483ed954ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9b30ee5d4388218",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5afd6bd8eb6a80a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439,
+    "collapsed": true
+  },
+  "active": "779908e64219f6c1",
+  "lastOpenFiles": [
+    "Listening/Unit 1.md",
+    "Listening/Unit 2.md",
+    "Reading/Unit 1.md",
+    "Speaking/Unit 2.md",
+    "Listening/Untitled.md",
+    "Description/IELTS.md",
+    "Day Planners/Day Planner-20210724.md",
+    "Speaking/Untitled.md",
+    "Definition/index.md",
+    "Reading/Untitled.md"
+  ]
+}

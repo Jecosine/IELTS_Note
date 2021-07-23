@@ -1,0 +1,20 @@
+{
+  "userAdmonitions": {
+    "tip": {
+      "type": "tip",
+      "color": "0, 148, 138",
+      "icon": {
+        "name": "lightbulb",
+        "type": "font-awesome"
+      },
+      "command": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "6.2.2",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "enableMarkdownProcessor": true
+}

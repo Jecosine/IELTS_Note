@@ -1,0 +1,9 @@
+{
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "foldHeading": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./img",
+  "promptDelete": false
+}
