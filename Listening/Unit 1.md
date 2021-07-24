@@ -112,3 +112,60 @@ Square
 ```
 ## Homework
 [refs to WB p6 - Listening section 1]()
+
+### Listening
+
+| No  | 1st round       | 2nd round | Answer          |
+| --- | --------------- | --------- | --------------- |
+| 1   | **3 weeks**     |           | **3 weeks**     |
+| 2   | **New Zealand** |           | **New Zealand** |
+| 3   | **Lawyer**      |           | **lawyer**      |
+| 4   | **Coundon**     |           | **Coundon**     |
+| 5   | **CV26**        |           | **CV26**        |
+| 6   | **B**           |           | **B**           |
+| 7   | ~~B~~           | **C**     | **C**           |
+| 8   | ~~A~~           | **B**     | **B**           |
+| 9   | **A**           |           | **A**           |
+| 10  | **C**           |           | **C**           |
+
+```ad-note
+title: Notes for options:
+
+⭐️ 粗体和括号中的词(组)是一对**同义替换**
+
+| No  | Option | Explanation                                                                                    |
+| --- | ------ | ---------------------------------------------------------------------------------------------- |
+| 6   | A      | 只是不经常用, 没有表示不喜欢                                                                   |
+|     | **B**  | 同义替换: I don't use it **all that often** (seldom)                                           |
+|     | C      | 没有说以后不再用了                                                                             |
+| 7   | A      | 没有比较                                                                                       |
+|     | B      | 没有说要做比以前更多运动的意愿, 其中原文“all the sports” 易听混成“more sports”                 |
+|     | **C**  | 同义替换: **A friend**(Someone) back home who'd lived here...**told**(recommend) me about this |
+|     | A      | 易误判原文”I **don't think I'll have time** to go everywhere I'd like to“                      |
+|     | **B**  | 同义替换: **so many things to choose**(wide range) from evenings and at weekends               |
+|     | C      | 没提到                                                                                         |
+| 9   | **A**  | I'd had **the impression**(expected) that...; ... be a bit **cleaner**(less of it[litter])     |
+|     | B      | actually it's not at all bad in that respect                                                   |
+|     | C      | 没有明显比较两者的多少, 只是说了比预期少                                                       |
+| 10  | A      | wasn't much they could do about it                                                             |
+|     | B      | 没有表现                                                                                       |
+|     | **C**  | 同义替换: I **don't know how common**(how much) that sort of thing is here                     |
+```
+
+### Key Vocabulary
+
+| No  | My Answer  | Correct Answer |
+| --- | ---------- | -------------- |
+| 2   | **Adjusting**  | **Adjusting**      |
+| 3   | **process**    | **process**        |
+| 4   | **stages**     | **stages**         |
+| 5   | **matters**    | **matters**        |
+| 6   | **accustomed** | **accustomed**     |
+| 7   | **evidence**   | **evidence**       |
+| 8   | **customs**    | **customs**        |
+| 9   | **sense**      | **sense**          |
+| 10  | **seek**       | **seek**           |
+
+[refs to Cambridge 9 LISTENING section 1]()
+
+
